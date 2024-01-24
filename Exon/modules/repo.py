@@ -31,10 +31,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://t.me/Eternal_society"
+                        "•ɴᴇᴛᴡᴏʀᴋ•", url="https://t.me/Eternal_society"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏᴠ1•", url="https://t.me/beerussupportchat"
+                        "•ꜱᴜᴘᴘᴏʀᴛ•", url="https://t.me/beerussupportchat"
                     ),
                 ]
             ]
