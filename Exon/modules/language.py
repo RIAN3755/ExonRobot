@@ -82,7 +82,7 @@ def set_lang(update: Update, _) -> None:
         [
             InlineKeyboardButton(
                 text="ʜᴇʟᴘ ᴜs ɪɴ ᴛʀᴀɴsʟᴀᴛɪᴏɴs",
-                url="https://github.com/Abishnoi69/ExonRobot",  # plz. Don't edit and change
+                url="https://t.me/beerussupportchat",  # plz. Don't edit and change
             )
         ]
     )
